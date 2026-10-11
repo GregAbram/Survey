@@ -7,6 +7,8 @@ the other devices to scan. Quest 3 and iPhone. **Survey with the Quest when you
 can**: it measures tag orientation several times more consistently than an
 iPhone.
 
+**[User guide](USER_GUIDE.md)** - how to use the app on Quest and iPhone.
+
 Unity 6000.3.10f1, with [edu.tacc.apriltags](https://github.com/GregAbram/AprilTags).
 
 ## Surveying a room
