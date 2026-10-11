@@ -75,8 +75,13 @@ Do this before you start looking at tags. Both are remembered for the next time.
 ## 5. Survey the room
 
 1. **Look at the first tag** from about **0.5-1 m**, as straight on as you
-   can, and hold still for a few seconds. **This tag defines the room:** its
-   center becomes the room's origin and the room's axes face along it. Status:
+   can, and hold still for a few seconds. **This tag defines the room:** the
+   **center of the tag is the room's origin** (0, 0, 0), so height 0 is the
+   tag's center, not the floor. Facing the tag, **+x is to your right**
+   along the wall, **+y is up** and **+z points into the wall** behind the
+   tag. Apps
+   place their content relative to this point, so start on the tag you want
+   content placed around. Status:
    ```
    Room: provisional - get within 1.2 m of tag 8 (5/8 close sightings)
    ```
